@@ -1165,12 +1165,12 @@ section {
   height: 120px;
 }
 
-@media screen and (max-width: 360px) {
+/* @media screen and (max-width: 360px) {
   .skills-section .skill-icon {
     padding-bottom: 0;
     height: 100px;
   }
-}
+} */
 
 .skills-section .skill-icon img {
   margin: 0 auto;
@@ -1214,8 +1214,17 @@ section {
 
 @media screen and (max-width: 450px) {
   .skills-section .skill-icon img {
-    width: 100%;
+    width: 20%;
     height: auto;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .skill-icon {
+    text-align: center;
+  }
+  #hero {
+    background-size: cover;
   }
 }
 
