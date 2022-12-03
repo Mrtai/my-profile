@@ -88,7 +88,7 @@ h6 {
   width: 240px;
   height: 240px;
   border: 8px solid #2c2f3f;
-  object-fit: unset;
+  object-fit: cover;
 }
 
 #header .profile h1 {
