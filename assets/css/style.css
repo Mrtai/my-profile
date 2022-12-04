@@ -231,7 +231,7 @@ h6 {
   width: 100%;
   height: 100vh;
   background: url('../img/IMG_2107.jpeg') top center;
-  background-size: contain;
+  background-size: cover;
 }
 
 #hero:before {
@@ -1222,9 +1222,6 @@ section {
 @media screen and (max-width: 450px) {
   .skill-icon {
     text-align: center;
-  }
-  #hero {
-    background-size: cover;
   }
 }
 
