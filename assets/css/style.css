@@ -230,7 +230,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url('../img/IMG_2107.jpeg') top center;
+  background: url('../img/pf-bg-2.jpeg') top center;
   background-size: cover;
 }
 
@@ -1224,7 +1224,6 @@ section {
     text-align: center;
   }
 }
-
 a.resume-btn {
   background: none;
   display: inline-block;
